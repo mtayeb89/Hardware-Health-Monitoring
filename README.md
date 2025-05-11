@@ -3,7 +3,7 @@ a Python script for a Hardware Health Check that monitors key hardware component
 # Hardware Health Monitor
 # مراقب صحة الأجهزة
 
-[English](#english) | [العربية](#arabic)
+[English](#english) | [العربية](#arabic).
 
 <a name="english"></a>
 ## English
